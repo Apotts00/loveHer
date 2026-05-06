@@ -1,0 +1,21 @@
+body {
+  background:
+    linear-gradient(rgba(5, 5, 5, 0.55), rgba(5, 5, 5, 0.75)),
+    url("images/home-hero.jpg") center/cover fixed;
+}
+
+.hero {
+  background:
+    radial-gradient(circle at top left, rgba(255, 47, 179, 0.45), transparent 35%),
+    radial-gradient(circle at bottom right, rgba(140, 255, 0, 0.35), transparent 30%);
+}
+
+.hero h1 {
+  color: #ffffff;
+  text-shadow: 0 0 30px rgba(255, 47, 179, 0.7);
+}
+
+.card {
+  background: rgba(255, 47, 179, 0.18);
+  border: 1px solid rgba(255, 255, 255, 0.22);
+}

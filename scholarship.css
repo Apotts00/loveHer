@@ -5,8 +5,8 @@ body {
 }
 
 .page-hero {
-  background:
-    linear-gradient(135deg, rgba(255, 47, 179, 0.7), rgba(255, 195, 0, 0.45));
+  background: linear-gradient(135deg, #ff2fb3, #ffc300);
+  color: white;
 }
 
 .highlight-box {

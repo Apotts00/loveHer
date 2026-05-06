@@ -5,8 +5,8 @@ body {
 }
 
 .page-hero {
-  background:
-    linear-gradient(135deg, rgba(140, 255, 0, 0.45), rgba(255, 47, 179, 0.6));
+  background: linear-gradient(135deg, #8cff00, #ff2fb3);
+  color: white;
 }
 
 .card {

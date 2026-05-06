@@ -1,0 +1,20 @@
+body {
+  background:
+    linear-gradient(rgba(5, 5, 5, 0.62), rgba(5, 5, 5, 0.82)),
+    url("images/program-workshop.jpg") center/cover fixed;
+}
+
+.page-hero {
+  background:
+    radial-gradient(circle at top left, rgba(140, 255, 0, 0.35), transparent 35%),
+    linear-gradient(135deg, rgba(255, 47, 179, 0.6), rgba(123, 44, 255, 0.7));
+}
+
+.week-card {
+  background: rgba(140, 255, 0, 0.12);
+  border-color: rgba(140, 255, 0, 0.35);
+}
+
+.week-card h3 {
+  color: #8cff00;
+}

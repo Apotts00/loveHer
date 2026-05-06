@@ -26,11 +26,8 @@ html {
 body {
   margin: 0;
   font-family: Arial, Helvetica, sans-serif;
-  background:
-    radial-gradient(circle at top left, rgba(255, 47, 179, 0.25), transparent 35%),
-    radial-gradient(circle at bottom right, rgba(140, 255, 0, 0.16), transparent 30%),
-    linear-gradient(135deg, var(--black), var(--dark));
-  color: var(--white);
+  background: #ffffff;
+  color: #111;
   line-height: 1.6;
 }
 
@@ -315,6 +312,13 @@ a {
   background: #030303;
   border-top: 1px solid var(--border);
   color: var(--muted);
+}
+
+.fun-section {
+  background: linear-gradient(135deg, #fff0f8, #f7f2ff);
+  border-radius: 24px;
+  padding: 3rem;
+  margin: 3rem auto;
 }
 
 @media (max-width: 900px) {

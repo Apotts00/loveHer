@@ -1,0 +1,19 @@
+body {
+  background:
+    linear-gradient(rgba(13, 6, 18, 0.65), rgba(13, 6, 18, 0.85)),
+    url("images/about-girls.jpg") center/cover fixed;
+}
+
+.page-hero {
+  background:
+    linear-gradient(135deg, rgba(123, 44, 255, 0.7), rgba(255, 47, 179, 0.55));
+}
+
+.card,
+.highlight-box {
+  background: rgba(123, 44, 255, 0.18);
+}
+
+.section h2 {
+  color: #ffb8ef;
+}

@@ -1,0 +1,18 @@
+body {
+  background:
+    linear-gradient(rgba(5, 5, 5, 0.55), rgba(5, 5, 5, 0.82)),
+    url("images/volunteer.jpg") center/cover fixed;
+}
+
+.page-hero {
+  background:
+    linear-gradient(135deg, rgba(140, 255, 0, 0.45), rgba(255, 47, 179, 0.6));
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.12);
+}
+
+.card h3 {
+  color: #8cff00;
+}
